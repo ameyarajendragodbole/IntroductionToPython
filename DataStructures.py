@@ -13,3 +13,4 @@ y_values = [5, 4, 6, 2]
 
 plt.plot(x_values, y_values)
 plt.savefig("plot.png", dpi=300)
+
